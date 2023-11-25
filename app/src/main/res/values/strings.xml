@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="cookie_monster_description">a picture depicting a cookie monster</string>
+    <string name="business_card_name">Fejj Tacos</string>
+    <string name="business_card_title">Cookie Manager</string>
+    <string name="call_icon_description">call icon</string>
+    <string name="social_icon_description">social icon</string>
+    <string name="mail_icon_description">mail icon</string>
+    <string name="phone_number">+1 (888) 593-1923</string>
+    <string name="social_handle">\@cptCookieDough</string>
+    <string name="mail_address">cookiemonster@sstreet.com</string>
+</resources>
